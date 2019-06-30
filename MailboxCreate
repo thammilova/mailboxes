@@ -1,0 +1,7 @@
+  "createParentMailbox": false,
+  "description": "Test Mailbox-06302019",
+  "groups": null,
+  "linkedToMailbox": null,
+  "mailboxType": "R",
+  "path": "/DevTestMailbox4",
+  "users": "LTAMMISETTY"
